@@ -1,3 +1,7 @@
 add for git test
 
 try to changed and add and commit
+
+add to git status
+
+add for log
